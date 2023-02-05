@@ -546,4 +546,5 @@ inp.on("close", () => {
   var a = String.fromCharCode(65, 87);
   var b = String.prototype.indexOf("A");
   console.log(b);
+  console.log(b);
 });
